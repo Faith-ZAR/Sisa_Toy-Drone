@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Toy Drone App</title>
+</head>
+<body>
+    <div class="container">
+        <div class="grid">
+            <!-- Dynamically generate grid cells -->
+        </div>
+        <div class="controls">
+            <label for="commandInput">Enter command:</label>
+            <input type="text" id="commandInput" placeholder="e.g., PLACE 0,0,NORTH">
+            <button id="executeCommand">Execute</button>
+            <button id="reset">Reset</button>
+        </div>
+        <div class="output">
+            <pre id="outputText"></pre>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
