@@ -37,10 +37,16 @@ Usage
 Customization
 
 You can customize the appearance and behavior of the Toy Drone App by modifying the styles.css file and adjusting the JavaScript code in script.js.
+
 Contributing
 
 Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request.
 License
+
+Acknowledgements
+
+Drone icon by [Icons8](https://icons8.com/icon/02GHEo6d4Uz6/drone)
+
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgments
